@@ -32,8 +32,11 @@ nav {
     font-size: 20px;
 }
 
-nav a {
+nav ul {
     list-style-type: none;
+}
+
+nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -46,6 +49,7 @@ a {
 p {
     font-size: 16px;
 }
+
 
 .hero {
     height: 800px;
