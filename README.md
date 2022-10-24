@@ -9,7 +9,7 @@ Through this project I learned which tags need to use in HTML to make the docume
 ## Usage 
 
 After refactoring and deployment the application looks as follows:
-!Mock-Up[assets/images/screenshot.png]
+![Mock-Up](assets/images/screenshot.jpg)
 
 ## Credits
 
