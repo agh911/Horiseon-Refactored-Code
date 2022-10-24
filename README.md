@@ -6,6 +6,10 @@ The motivation behind this project was to refactor the code for the webpage so t
 
 Through this project I learned which tags need to use in HTML to make the document follow semantic rules and how to consolidate code in CSS.
 
+## Usage 
+
+After refactoring and deployment the application looks as follows:
+[assets/images/screenshot.png]
 
 ## Credits
 
