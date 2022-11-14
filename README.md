@@ -16,6 +16,9 @@ After refactoring and deployment the application looks as follows:
 * [Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
 * [Image `alt` attributes](https://www.w3schools.com/tags/att_img_alt.asp)
 
+##Link
+
+* [Deployed application](https://agh911.github.io/challenge_01/)
 
 ## License
 
