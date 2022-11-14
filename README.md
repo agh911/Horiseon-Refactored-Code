@@ -18,7 +18,7 @@ After refactoring and deployment the application looks as follows:
 
 ## Link
 
-* [Deployed application](https://agh911.github.io/challenge_01/)
+* [Deployed application](https://agh911.github.io/Horiseon-Refactored-Code/)
 
 ## License
 
